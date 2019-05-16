@@ -11,4 +11,8 @@ public class HelloController {
     public String sayHello() {
         return "hello";
     }
+
+    public void test(){
+
+    }
 }
